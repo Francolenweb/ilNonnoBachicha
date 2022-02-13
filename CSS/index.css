@@ -311,4 +311,16 @@ footer img{width: 75px; height: 75px; border-radius: 40%; }
     #direccion{
         font-size: 25px;
     }
+    #platostitulo{
+        font-size: 7vh;
+    }
+    #platos div h5{
+        font-size: 8vh;
+        
+    }
+    
+    #platos div p{
+        font-size: 3vh;
+        
+    }
   }
